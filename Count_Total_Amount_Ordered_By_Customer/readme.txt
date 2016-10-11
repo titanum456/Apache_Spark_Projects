@@ -1,0 +1,1 @@
+Count up total amount ordered by customer
